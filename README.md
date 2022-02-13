@@ -19,7 +19,7 @@
 在每次的查詢 queryAll()時 都可以將 查詢時間的 Log 記錄下來</b>
 
 程式碼:
-       [homework4-1->建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)/\n
+       [homework4-1->建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)/
        [homework4-2->建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)/
       [homework4-3->在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
      
