@@ -18,7 +18,7 @@
 2022-01-09 -
 在每次的查詢 queryAll()時 都可以將 查詢時間的 Log 記錄下來
 
-程式碼:[homework4-1建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)<br>
+程式碼:[homework4-1建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql).
       [homework4-2建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)
       [homework4-3在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
 
