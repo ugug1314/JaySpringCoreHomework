@@ -6,7 +6,7 @@
 
 程式碼: [homework1](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/test/java/com/study/springcore/case05/Test1.java)
 
-2021/12/26 - 
+題目2021/12/26 - 
 完成 JsonDB.java 如果 person 已存在則 return false (name、age、birth 皆與目前資料庫某一 person 資料相同)
 
 程式碼:[homework2](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/case08/JsonDB.java">homework2)
@@ -15,16 +15,16 @@
 
 程式碼: [homework3](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/case08/PersonController.java)
 
-2022-01-09 -
+題目2022-01-09 -
 在每次的查詢 queryAll()時 都可以將 查詢時間的 Log 記錄下來
 
 程式碼:
-       [homework4-1建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)
-       [homework4-2建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)
+       [homework4-1建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)/
+       [homework4-2建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)/
       [homework4-3在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
      
 
-2022/01/16 -依講義Spring jdbc Template第34~36頁實作lab分析<br>
+題目2022/01/16 -依講義Spring jdbc Template第34~36頁實作lab分析<br>
 1.每一張發票有那些商品?<br>
 2.每一張發票有幾件商品?<br>
 3.每一張發票價值多少?<br>
