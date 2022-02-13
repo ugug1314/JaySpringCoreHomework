@@ -18,16 +18,16 @@
 2022-01-09 -
 在每次的查詢 queryAll()時 都可以將 查詢時間的 Log 記錄下來
 
-程式碼:[homework4-1建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)
-      [homework4-2建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)
+程式碼:[homework4-1建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)<br>
+      [homework4-2建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)<br>
       [homework4-3在conf/jdbc-config.xml中配置Aspect(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
 
 2022/01/16 -依講義Spring jdbc Template第34~36頁實作lab分析
-1.每一張發票有那些商品?
-2.每一張發票有幾件商品?
-3.每一張發票價值多少?
-4.每一樣商品各賣了多少?
-5.哪一件商品賣得錢最多?
+1.每一張發票有那些商品?<br>
+2.每一張發票有幾件商品?<br>
+3.每一張發票價值多少?<br>
+4.每一樣商品各賣了多少?<br>
+5.哪一件商品賣得錢最多?<br>
 6.哪一張發票價值最高（請練習看看）?
 
 程式碼:[homework5](https://github.com/ugug1314/JaySpringCoreHomework/tree/master/src/main/java/com/study/springcore/homework0116)
@@ -35,8 +35,8 @@
 
 2022/01/23 -
 於購買書藉時，紀錄購買的資訊
-程式碼:[homework6-1建立sql資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/homework0116/sql/ceatesql_and_analyze.sql)
-      [homework6-2建立Aspect類別BuyingRecord(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BuyingRecord.java)
-      [homework6-3BookDao中新增setrecord及getbuyingrecord方法](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDao.java)
-      [homework6-4BookDaoImpl中新增實作(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDaoImpl.java)
-      [homework6-5在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
+程式碼:[homework6-1建立sql資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/homework0116/sql/ceatesql_and_analyze.sql)<br>
+      [homework6-2建立Aspect類別BuyingRecord(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BuyingRecord.java)<br>
+      [homework6-3BookDao中新增setrecord及getbuyingrecord方法](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDao.java)<br>
+      [homework6-4BookDaoImpl中新增實作(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDaoImpl.java)<br>
+      [homework6-5在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)<br>
