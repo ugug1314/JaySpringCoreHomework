@@ -19,9 +19,9 @@
 在每次的查詢 queryAll()時 都可以將 查詢時間的 Log 記錄下來</b>
 
 程式碼:
-       [homework4-1建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)/
-       [homework4-2建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)/
-      [homework4-3在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
+       [homework4-1->建立資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/sql/20220109HomeWork.sql)/
+       [homework4-2->建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)/
+      [homework4-3->在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
      
 
 <b>題目2022/01/16 -依講義Spring jdbc Template第34~36頁實作lab分析</b><br>
@@ -37,8 +37,8 @@
 
 <b>題目2022/01/23 -
 於購買書藉時，紀錄購買的資訊</b><br>
-程式碼:[homework6-1建立sql資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/homework0116/sql/ceatesql_and_analyze.sql)/
-      [homework6-2建立Aspect類別BuyingRecord](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BuyingRecord.java)/
-      [homework6-3BookDao中新增setrecord及getbuyingrecord方法](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDao.java)/
-      [homework6-4BookDaoImpl中新增實作](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDaoImpl.java)/
-      [homework6-5在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
+程式碼:[homework6-1->建立sql資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/homework0116/sql/ceatesql_and_analyze.sql)/
+      [homework6-2->建立Aspect類別BuyingRecord](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BuyingRecord.java)/
+      [homework6-3->BookDao中新增setrecord及getbuyingrecord方法](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDao.java)/
+      [homework6-4->BookDaoImpl中新增實作](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDaoImpl.java)/
+      [homework6-5->在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
