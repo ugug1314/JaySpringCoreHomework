@@ -22,7 +22,7 @@
       [homework4-2建Aspect類別RecordQuery](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/jdbc/template/RecordQuery.java)<br>
       [homework4-3在conf/jdbc-config.xml中配置Aspect(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
 
-2022/01/16 -依講義Spring jdbc Template第34~36頁實作lab分析
+2022/01/16 -依講義Spring jdbc Template第34~36頁實作lab分析<br>
 1.每一張發票有那些商品?<br>
 2.每一張發票有幾件商品?<br>
 3.每一張發票價值多少?<br>
@@ -34,7 +34,7 @@
 
 
 2022/01/23 -
-於購買書藉時，紀錄購買的資訊
+於購買書藉時，紀錄購買的資訊<br>
 程式碼:[homework6-1建立sql資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/homework0116/sql/ceatesql_and_analyze.sql)<br>
       [homework6-2建立Aspect類別BuyingRecord(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BuyingRecord.java)<br>
       [homework6-3BookDao中新增setrecord及getbuyingrecord方法](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDao.java)<br>
