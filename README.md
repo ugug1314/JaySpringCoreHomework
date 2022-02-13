@@ -38,7 +38,7 @@
 <b>題目2022/01/23 -
 於購買書藉時，紀錄購買的資訊</b><br>
 程式碼:[homework6-1建立sql資料表](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/homework0116/sql/ceatesql_and_analyze.sql)/
-      [homework6-2建立Aspect類別BuyingRecord(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BuyingRecord.java)/
+      [homework6-2建立Aspect類別BuyingRecord](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BuyingRecord.java)/
       [homework6-3BookDao中新增setrecord及getbuyingrecord方法](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDao.java)/
-      [homework6-4BookDaoImpl中新增實作(https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDaoImpl.java)/
+      [homework6-4BookDaoImpl中新增實作](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/tx/dao/BookDaoImpl.java)/
       [homework6-5在conf/jdbc-config.xml中配置Aspect](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/conf/jdbc-config.xml)
