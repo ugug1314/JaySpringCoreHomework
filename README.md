@@ -11,7 +11,7 @@
 
 程式碼:[homework2](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/case08/JsonDB.java">homework2)
 
-       <b>完成 PersonSystem.java 選項3 ~ 7資料分析與處理</b>
+<b>完成 PersonSystem.java 選項3 ~ 7資料分析與處理</b>
 
 程式碼: [homework3](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/case08/PersonController.java)
 
