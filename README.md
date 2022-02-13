@@ -2,7 +2,7 @@
 
 題目
 2021/12/19-
-請使用 Java 8 stream 進行資料分析並取得 mary 的老師有誰? (印出 name)
+<b>請使用 Java 8 stream 進行資料分析並取得 mary 的老師有誰? (印出 name)</b>
 
 程式碼: [homework1](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/test/java/com/study/springcore/case05/Test1.java)
 
