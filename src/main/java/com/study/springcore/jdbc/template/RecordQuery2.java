@@ -3,16 +3,22 @@ package com.study.springcore.jdbc.template;
 import java.util.List;
 import java.util.Map;
 
-import org.aopalliance.intercept.Joinpoint;
 import org.aspectj.lang.JoinPoint;
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Component;
 
-public class RecordQuery {
+@Component
+@Aspect
+//Java類別配置式
+public class RecordQuery2 {
 	 @Autowired
 	private JdbcTemplate jdbcTemplate;
      @Autowired
     private EmpDao empDao;
+     @Before(value="execution(* com.study.springcore.jdbc.template.EmpDao.queryAll())")
 	 private void record(JoinPoint joinpoint) {
 		empDao.setSelectLog(joinpoint.getSignature().getName());
 		System.out.println("紀錄完成");
