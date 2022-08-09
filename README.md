@@ -9,7 +9,7 @@
 <b>題目2021/12/26 - 
 完成 JsonDB.java 如果 person 已存在則 return false (name、age、birth 皆與目前資料庫某一 person 資料相同)</b>
 
-程式碼:[homework2](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/case08/JsonDB.java>homework2)
+程式碼:[homework2](https://github.com/ugug1314/JaySpringCoreHomework/blob/master/src/main/java/com/study/springcore/case08/JsonDB.java)
 
 <b>完成 PersonSystem.java 選項3 ~ 7資料分析與處理</b>
 
